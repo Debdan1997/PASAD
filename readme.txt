@@ -1,0 +1,1 @@
+There are 5 python files. One for each attack scenario. These can be run using a python 3 interpreter. Note that the plotting requires matplotlib to be installed. Make sure that the corresponding data file is in the same folder as the corresponding python file.
